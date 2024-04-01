@@ -1,20 +1,5 @@
 <div><h2>Certificate  of Internship Completion</h2></div>
 
-
-<style>
-  h1 {
-    color: #3366cc; /* Blue color */
-  }
-
-  h2 {
-    color: #cc0033; /* Red color */
-  }
-
-  h3 {
-    color: #009933; /* Green color */
-  }
-</style>
-
 # Internship Completion Report
 
 ## Overview
@@ -29,18 +14,22 @@ During my internship, I gained valuable experience working with various technolo
 - **CSS**: Employed for styling and designing web pages.
 
 ## Projects
+### <span style="color: #3366cc;">1. Online Bookstore Management System</span> <span style="font-style: italic;">(Python Flask)</span>
+- Developed a web-based bookstore management system using Python Flask.
+- Implemented features for adding, editing, and deleting books from the inventory.
+- Integrated user authentication and authorization for admin and customer roles.
+- Utilized MySQL database for storing book information and user data.
 
-### 2. Affirmation Application (*Django*)
+### <span style="color: #cc0033;">2. E-commerce Website</span> <span style="font-style: italic;">(Django)</span>
 - Contributed to the development of an e-commerce website using Django framework.
 - Implemented user registration, login, and profile management functionalities.
 - Integrated payment gateways for secure online transactions.
 - Collaborated with the team to ensure smooth functionality and user experience.
 
-### 3. Automated Testing Framework (*Selenium*)
+### <span style="color: #009933;">3. Automated Testing Framework</span> <span style="font-style: italic;">(Selenium)</span>
 - Designed and implemented an automated testing framework using Selenium.
 - Wrote test scripts to validate the functionality of web applications across different browsers.
 - Conducted regression testing to ensure the stability of web applications after code changes.
 
 ## Conclusion
 My internship experience provided me with hands-on experience in web development technologies such as Python Flask, Django, MySQL, and Selenium. I gained valuable insights into building scalable web applications, managing databases, and implementing automated testing strategies. I look forward to applying these skills in my future endeavors and continuing to grow as a developer.
-
